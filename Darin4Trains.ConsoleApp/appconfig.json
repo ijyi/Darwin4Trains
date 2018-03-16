@@ -1,0 +1,17 @@
+{
+  "AmqConfig": {
+    "ConnectionUri": "activemq:tcp://<need_to_be_obtained>",
+    "Username": "<need_to_be_obtained>",
+    "Password": "<need_to_be_obtained>",
+    "ClientId": "<need_to_be_obtained>",
+    "DestinationName": "Darwin4Trains"
+  },
+  "SelectorConfig": {
+    "IsSnapshotEnabled": "false",
+    "IsListenerEnabled": "true",
+    "IsSelectorEnabled": "false",
+    "SnapshotFilter": "{ 'crs':[], 'toc':[], 'rid':[], 'uidssd':[] }",
+    "SelectorFilter": "AtocCode = 'NT'",
+    "SnapshotDestination": "Darwin4Trains_SnapshotRequest"
+  }
+}
