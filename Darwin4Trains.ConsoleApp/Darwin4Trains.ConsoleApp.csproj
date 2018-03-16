@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <StartupObject>Darin4Trains.ConsoleApp.Program</StartupObject>
+    <StartupObject>Darwin4Trains.ConsoleApp.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-namespace Darin4Trains.ConsoleApp.Extensions
+namespace Darwin4Trains.ConsoleApp.Extensions
 {
   using System.Linq;
   using System.Text;

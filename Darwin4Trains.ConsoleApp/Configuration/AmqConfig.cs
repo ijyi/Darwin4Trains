@@ -1,4 +1,4 @@
-namespace Darin4Trains.ConsoleApp.Configuration
+namespace Darwin4Trains.ConsoleApp.Configuration
 {
   using System.Diagnostics.CodeAnalysis;
 

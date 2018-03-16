@@ -1,4 +1,4 @@
-namespace Darin4Trains.ConsoleApp.Configuration
+namespace Darwin4Trains.ConsoleApp.Configuration
 {
   /// <inheritdoc cref="ISelectorConfig" />
   public class SelectorConfig : ISelectorConfig

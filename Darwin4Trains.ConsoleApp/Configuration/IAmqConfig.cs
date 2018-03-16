@@ -1,4 +1,4 @@
-namespace Darin4Trains.ConsoleApp.Configuration
+namespace Darwin4Trains.ConsoleApp.Configuration
 {
   /// <summary>
   /// The AMQ config so we can create strongly typed versions of the config settings.

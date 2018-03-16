@@ -1,15 +1,14 @@
-namespace Darin4Trains.ConsoleApp
+namespace Darwin4Trains.ConsoleApp
 {
   using System;
   using System.IO;
-  using System.Linq;
   using System.Text;
 
   using Apache.NMS;
   using Apache.NMS.ActiveMQ;
 
-  using Darin4Trains.ConsoleApp.Configuration;
-  using Darin4Trains.ConsoleApp.Extensions;
+  using Darwin4Trains.ConsoleApp.Configuration;
+  using Darwin4Trains.ConsoleApp.Extensions;
 
   using Microsoft.Extensions.Configuration;
 
